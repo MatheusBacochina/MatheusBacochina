@@ -4,7 +4,7 @@
   
     *{
  
-    color: #feb113
+    color: #feb113;
     
 }
   
