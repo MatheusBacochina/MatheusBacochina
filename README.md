@@ -1,9 +1,4 @@
-<style>
-h1{
-    color: blue;
-}
 
-</style>
 
 <h1> Oi, Sou o Matheus</h1>
 
@@ -15,4 +10,9 @@ h1{
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
+<style>
+    h1{
+        color: blue;
+    }
+    
+    </style>
